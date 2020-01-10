@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "588604359472",
+    "firebase_url": "https://dvtweatherappkt.firebaseio.com",
+    "project_id": "dvtweatherappkt",
+    "storage_bucket": "dvtweatherappkt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588604359472:android:f907ffade0152e6dab3ef5",
+        "android_client_info": {
+          "package_name": "com.dvt.weatherapp.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588604359472-thi22utuqeptic4o9eivvbesce06omte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJCRXtlfabrkK8aI2kx9aos-WvLPtnb4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588604359472-thi22utuqeptic4o9eivvbesce06omte.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
